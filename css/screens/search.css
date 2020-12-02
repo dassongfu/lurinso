@@ -1,0 +1,17 @@
+.search {
+  background-color: black;
+  width: 1000px;
+  padding: 50px;
+  margin: 250px 0 0 400px;
+}
+
+.syp a {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+article {
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+}

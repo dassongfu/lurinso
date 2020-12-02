@@ -1,0 +1,28 @@
+header {
+  background: black;
+}
+
+.header__upper {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  margin-left: 47vw;
+  margin-right: 25vw;
+  font-size: 24px;
+}
+
+.user-ser {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.user-ser__link {
+  margin-right: 10px;
+}
+.nav {
+  padding: 10px 80px;
+  display: flex;
+  justify-content: space-between;
+}

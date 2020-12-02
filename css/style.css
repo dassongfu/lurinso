@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap");
+/* screens */
+@import "screens/log-in.css";
+@import "screens/search.css";
+@import "screens/purchase.css";
+@import "screens/my-page.css";
+/* components */
+@import "components/header.css";
+@import "components/main.css";
+
+body {
+  font-family: "Open Sans", sans-serif;
+  color: #2f363e;
+  background-image: url("../img/bg-ground.jpg");
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+footer {
+  margin-top: 100px;
+  padding: 10px;
+  background: black;
+  color: white;
+  text-align: center;
+}

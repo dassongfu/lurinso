@@ -1,0 +1,43 @@
+main {
+  height: 85vh;
+}
+
+.main__title {
+  text-align: center;
+  font-size: 50px;
+  font-weight: 700;
+  text-shadow: 5px 5px white;
+}
+
+.main__images {
+  margin: 80px 10px 0 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.main__cloth {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 10px;
+}
+
+.main__cloth a img {
+  width: 480px;
+  max-width: 100%;
+  height: auto;
+  padding: 1.05vw;
+  margin-bottom: 20px;
+  background: black;
+}
+
+.main__info {
+  padding: 20px 40px;
+  width: 26vw;
+  background: #555555;
+  color: white;
+  text-align: center;
+  font-size: 24px;
+}

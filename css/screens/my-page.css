@@ -1,0 +1,11 @@
+.time {
+  background-color: black;
+  width: 1000px;
+  padding: 50px;
+  margin: 250px 0 0 400px;
+  color: white;
+}
+
+#datetime {
+  font-size: 50px;
+}
